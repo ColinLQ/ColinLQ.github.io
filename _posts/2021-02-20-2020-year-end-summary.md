@@ -3,7 +3,7 @@ layout: post
 title: 2020 年终总结
 date: 2021-02-19 13:32:20 +0300
 description: 2020年年终终结
-img: 2021-02-20-year-end-summary/垂钓.jpg # Add image post (optional)
+img: 2021-02-20-2020-year-end-summary/垂钓.jpg # Add image post (optional)
 tags: [Blog, 年终终结]
 author: Colin # Add name author (optional)
 ---
@@ -11,47 +11,47 @@ author: Colin # Add name author (optional)
 ### 垂钓
 今年喜欢上了垂钓，不是因为喜欢鱼，只是喜欢静静的坐在那里。
 
-![垂钓](/assets/img/2021-02-20-year-end-summary/垂钓.jpg)
+![垂钓](/assets/img/2021-02-20-2020-year-end-summary/垂钓.jpg)
 
 ### 这个不是你
 这的确不是我，但我又是谁？
 
-![](/assets/img/2021-02-20-year-end-summary/这不是你.png)
+![](/assets/img/2021-02-20-2020-year-end-summary/这不是你.png)
 
 ### 道理都懂，可是依然过不好这一生
-![少有人走的路](/assets/img/2021-02-20-year-end-summary/少有人走的路.png)
+![少有人走的路](/assets/img/2021-02-20-2020-year-end-summary/少有人走的路.png)
 
 ### 勇气
 一直希望这本书能给我一点勇气，可确没有勇气翻开任何一本书，于是这本书就在我枕头底下躺了将近一年。
-![假如给我三天光明](/assets/img/2021-02-20-year-end-summary/假如给我三天光明.jpg)
+![假如给我三天光明](/assets/img/2021-02-20-2020-year-end-summary/假如给我三天光明.jpg)
 
 ### 假如
 假如真有这么一天，请将我的心脏献给一位温暖、阳光、自律的人。
 
-![人体器官志愿者登记](/assets/img/2021-02-20-year-end-summary/人体器官捐献.png)
+![人体器官志愿者登记](/assets/img/2021-02-20-2020-year-end-summary/人体器官捐献.png)
 
 ### 你好，陌生人
 参加了一个相互送书的游戏，于是送了一本一直没能看完的书。你好，陌生人，这是一本很好的书，请替我看完。
 
-![见识](/assets/img/2021-02-20-year-end-summary/你好陌生人.jpg)
+![见识](/assets/img/2021-02-20-2020-year-end-summary/你好陌生人.jpg)
 
 
 ### 执着
 一直不相信星座的我，这一刻突然觉得好准。
 
-![执着](/assets/img/2021-02-20-year-end-summary/天蝎座.png)
+![执着](/assets/img/2021-02-20-2020-year-end-summary/天蝎座.png)
 
 ### 再见
-![再见](/assets/img/2021-02-20-year-end-summary/再见.png)
+![再见](/assets/img/2021-02-20-2020-year-end-summary/再见.png)
 
 ### 错觉
 总感觉这一幕曾经发生过，但记忆又很模糊，让我开始怀疑是否正的存在平行宇宙，所有的结局早已经注定，所有的努力不是在改变命运，只是在加速命运的进程。
 
-![你猜](/assets/img/2021-02-20-year-end-summary/错觉.png)
+![你猜](/assets/img/2021-02-20-2020-year-end-summary/错觉.png)
 
 
 ### 待续。。。
-![待续](/assets/img/2021-02-20-year-end-summary/待续.jpg)
+![待续](/assets/img/2021-02-20-2020-year-end-summary/待续.jpg)
 
 
 ### 乱七八糟写点啥，凑齐800字吧
