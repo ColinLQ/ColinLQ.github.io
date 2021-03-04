@@ -8,10 +8,12 @@
 .highlighter-rouge {
   color: #87314e;
   font-weight: 400;
-  border: 1px solid #607D8B;
+  /* border: 1px solid #607D8B; */
+  zoom: 0.8;
+  background-color: rgba(135, 49, 78, 0.08);
   -webkit-border-radius: 3px;
           border-radius: 3px;
-  padding: 0.1rem 0.5rem;
+  padding: 0.1rem 0.3rem;
 }
 
 .highlight .hll {
