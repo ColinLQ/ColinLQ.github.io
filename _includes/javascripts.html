@@ -25,7 +25,7 @@
       return { src: item.src, w: item.width, h: item.height }
     }))
     $images.click(function() {
-      index = images.findIndex(item => this.src)
+      index = images.findIndex(item => this.src === item.src)
 
       var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, images, {
         index
