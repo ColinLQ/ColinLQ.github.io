@@ -1,6 +1,8 @@
 <!-- JS -->
 <script src="{{site.baseurl}}/assets/js/jquery-3.2.1.min.js"></script>
 <script src="{{site.baseurl}}/assets/js/jekyll-search.js"></script>
+<script src="{{site.baseurl}}/assets/js/photoswipe.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/photoswipe-ui-default.min.js"></script>
 <script>
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
@@ -13,3 +15,22 @@
   });
 </script>
 <script src="{{site.baseurl}}/assets/js/main.js"></script>
+
+<script>
+  $(function() {
+    var pswpElement = document.querySelectorAll('.pswp')[0];
+    if (!pswpElement) { return }
+    const $images = $('.page-content img');
+    const images = Array.from($images.map((index, item) => {
+      return { src: item.src, w: item.width, h: item.height }
+    }))
+    $images.click(function() {
+      index = images.findIndex(item => this.src)
+
+      var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, images, {
+        index
+      });
+      gallery.init();
+    })
+  })
+  </script>
